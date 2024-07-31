@@ -1,0 +1,8 @@
+Model Information:
+* title:	Police Drone - Viper ZX07
+* source:	https://sketchfab.com/3d-models/police-drone-viper-zx07-c118815778f146bbb8e69db5acfc9d8e
+* author:	Vetech82 (https://sketchfab.com/Vetech82)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
